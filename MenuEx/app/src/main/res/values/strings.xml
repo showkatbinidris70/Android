@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MenuEx</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="save">Save</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+</resources>
