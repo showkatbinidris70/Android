@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="FONT_SIZE">APP_FONT_SIZE</string>
+    <string name="FONT_COLOR">APP_FONT_COLOR</string>
+    <string name="TEXT_INFO">APP_TEXT_INFO</string>
+</resources>
