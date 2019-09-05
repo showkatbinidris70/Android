@@ -23,7 +23,7 @@ public class OrderDetails extends AppCompatActivity {
         list_choice = bundle.getString("choices");
         price_bd = bundle.getDouble("price");
 
-        price_usd = price_bd*79.0;
+        price_usd = price_bd*80.0;
 
 
         listView.setText(list_choice);
